@@ -1,0 +1,76 @@
+.car-home .carousel-item img{
+    height: 500px;
+}
+
+.tulisan{
+    margin-top: 25px;
+    text-align: center;
+    text-shadow: gold;
+    font-family: fantasy;
+    font-style: normal;
+    color:rgb(99, 55, 180);
+}
+
+.paragraf {
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 25px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    color: rgb(16, 16, 109);
+}
+
+.kontak{
+    margin-top: 25px;
+    font-family: cursive;
+    color:purple;
+    padding-left: 25px;
+}
+.container-cardnya{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+/* .cardnya{
+    padding-left: 100px;
+    text-align: center;
+    
+} */
+
+.nav-link:hover{
+    background-color: grey;
+}
+
+.display-4{
+    font-weight: bold;
+}
+
+.card-body-icon{
+    position: absolute;
+    z-index: 0;
+    top: 25px;
+    right: 4px;
+    opacity: 0.4;
+    font-size: 90px;
+}
+
+.card-body-icon1{
+    position: absolute;
+    margin-top: -10xpx;
+    margin-left: -30px;
+    opacity: 0.4;
+    font-size: 90px;
+}
+
+.card-title1{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 75px;
+}
+
+.card-text1{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 75px;
+}
